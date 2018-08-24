@@ -1,5 +1,5 @@
 {
-  "name": "todolistapi",
+  "name": "filelistapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.2",
+    "jsmediatags": "^3.8.1",
     "mongoose": "^5.2.6"
   },
   "devDependencies": {
